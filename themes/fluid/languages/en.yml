@@ -39,10 +39,10 @@ page404:
   subtitle: 'Página não encontrada'
 
 post:
-  toc: 'Table of Contents'
+  toc: 'Sumário'
   prev_post: 'Anterior'
   next_post: 'Próximo'
-  updated: 'Última atualização a %s'
+  updated: 'Última atualização: %s'
   meta:
     wordcount: '%s words'
     min2read: '%s mins'
