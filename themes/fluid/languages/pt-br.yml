@@ -5,16 +5,16 @@ home:
   title: 'Inicio'
 
 archive:
-  menu: 'Archives'
-  title: 'Archives'
-  subtitle: 'Archives'
-  post_total: '%d posts in total'
+  menu: 'Arquivo'
+  title: 'Arquivo'
+  subtitle: 'Arquivo'
+  post_total: '%d posts no total'
 
 category:
-  menu: 'Categories'
-  title: 'Categories'
-  subtitle: 'Categories'
-  post_total: '%d posts in total'
+  menu: 'Categorias'
+  title: 'Categorias'
+  subtitle: 'Categorias'
+  post_total: '%d posts no total'
   more: 'Continuar...'
 
 tag:
@@ -40,9 +40,9 @@ page404:
 
 post:
   toc: 'Table of Contents'
-  prev_post: 'Previous'
+  prev_post: 'Anterior'
   next_post: 'Próximo'
-  updated: 'Last updated on %s'
+  updated: 'Última atualização a %s'
   meta:
     wordcount: '%s words'
     min2read: '%s mins'

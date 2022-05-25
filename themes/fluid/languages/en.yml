@@ -1,32 +1,32 @@
-name: 'English'
+name: 'Portuguese'
 
 home:
-  menu: 'Home'
-  title: 'Home'
+  menu: 'Inicio'
+  title: 'Inicio'
 
 archive:
-  menu: 'Archives'
-  title: 'Archives'
-  subtitle: 'Archives'
-  post_total: '%d posts in total'
+  menu: 'Arquivo'
+  title: 'Arquivo'
+  subtitle: 'Arquivo'
+  post_total: '%d posts no total'
 
 category:
-  menu: 'Categories'
-  title: 'Categories'
-  subtitle: 'Categories'
-  post_total: '%d posts in total'
-  more: 'More...'
+  menu: 'Categorias'
+  title: 'Categorias'
+  subtitle: 'Categorias'
+  post_total: '%d posts no total'
+  more: 'Continuar...'
 
 tag:
   menu: 'Tags'
   title: 'Tags'
   subtitle: 'Tags'
-  post_total: '%d posts in total'
+  post_total: '%d posts no total'
 
 about:
-  menu: 'About'
-  title: 'About'
-  subtitle: 'About'
+  menu: 'Sobre'
+  title: 'Sobre'
+  subtitle: 'Sobre'
 
 links:
   menu: 'Links'
@@ -34,23 +34,23 @@ links:
   subtitle: 'Links'
 
 page404:
-  menu: 'Page not found'
-  title: 'Page not found'
-  subtitle: 'Page not found'
+  menu: 'Página não encontrada'
+  title: 'Página não encontrada'
+  subtitle: 'Página não encontrada'
 
 post:
   toc: 'Table of Contents'
-  prev_post: 'Previous'
-  next_post: 'Next'
-  updated: 'Last updated on %s'
+  prev_post: 'Anterior'
+  next_post: 'Próximo'
+  updated: 'Última atualização a %s'
   meta:
     wordcount: '%s words'
     min2read: '%s mins'
     views: '{} views'
   copyright:
-    author: 'Author'
-    posted: 'Posted on'
-    updated: 'Updated on'
+    author: 'Autor'
+    posted: 'Postado em'
+    updated: 'Atualizado em'
     licensed: 'Licensed under'
     CC: 'CC - Creative Commons license'
     BY: 'BY - Attribution'
@@ -59,11 +59,11 @@ post:
     ND: 'ND - No derivative works'
 
 footer:
-  pv: 'Views: {}'
-  uv: 'Visitors: {}'
+  pv: 'Visualizações: {}'
+  uv: 'Visitantes: {}'
 
 search:
-  title: 'Search'
+  title: 'Procurar'
   keyword: 'Keyword'
 
-noscript_warning: 'Blog works best with JavaScript enabled'
+noscript_warning: 'Esse blog funciona melhor com o JavaScript habilitado'
