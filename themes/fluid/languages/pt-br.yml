@@ -1,0 +1,69 @@
+name: 'Portuguese'
+
+home:
+  menu: 'Inicio'
+  title: 'Inicio'
+
+archive:
+  menu: 'Archives'
+  title: 'Archives'
+  subtitle: 'Archives'
+  post_total: '%d posts in total'
+
+category:
+  menu: 'Categories'
+  title: 'Categories'
+  subtitle: 'Categories'
+  post_total: '%d posts in total'
+  more: 'Continuar...'
+
+tag:
+  menu: 'Tags'
+  title: 'Tags'
+  subtitle: 'Tags'
+  post_total: '%d posts no total'
+
+about:
+  menu: 'Sobre'
+  title: 'Sobre'
+  subtitle: 'Sobre'
+
+links:
+  menu: 'Links'
+  title: 'Links'
+  subtitle: 'Links'
+
+page404:
+  menu: 'Página não encontrada'
+  title: 'Página não encontrada'
+  subtitle: 'Página não encontrada'
+
+post:
+  toc: 'Table of Contents'
+  prev_post: 'Previous'
+  next_post: 'Próximo'
+  updated: 'Last updated on %s'
+  meta:
+    wordcount: '%s words'
+    min2read: '%s mins'
+    views: '{} views'
+  copyright:
+    author: 'Autor'
+    posted: 'Postado em'
+    updated: 'Atualizado em'
+    licensed: 'Licensed under'
+    CC: 'CC - Creative Commons license'
+    BY: 'BY - Attribution'
+    SA: 'SA - Share-alike'
+    NC: 'NC - Non-commercial'
+    ND: 'ND - No derivative works'
+
+footer:
+  pv: 'Visualizações: {}'
+  uv: 'Visitantes: {}'
+
+search:
+  title: 'Procurar'
+  keyword: 'Keyword'
+
+noscript_warning: 'Esse blog funciona melhor com o JavaScript habilitado'
