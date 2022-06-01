@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+*.log
+*.iml
+node_modules/
+package-lock.json
+*.lock
+
+
+db.json
+public/
+.deploy*/
