@@ -1,38 +1,23 @@
 ---
-title: Hello World
+title: Hello World!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Bem vind@ ao [Zani.pro](https://zani.pro/)! Será o lugar onde postarei coisas em geral (resolução de problemas, tutoriais, post mortem e outras coisas). Aceito sugestões e feedback (ambos extremamente importantes). Obrigado por sua visita!
 
-## Quick Start
+## Redes sociais
 
-### Create a new post
+### LinkedIn
 
-``` bash
-$ hexo new "My New Post"
-```
+Link: [Victor Zaniquelli](https://www.linkedin.com/in/zaniquelli/)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### Telegram
 
-### Run server
+Link: [@M1SM4TCH](https://t.me/M1SM4TCH)
 
-``` bash
-$ hexo server
-```
+### GitHub
 
-More info: [Server](https://hexo.io/docs/server.html)
+Link: [Zaniquelli](https://github.com/Zaniquelli)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Até breve! 👋
