@@ -39,7 +39,7 @@ page404:
   subtitle: 'Página não encontrada'
 
 post:
-  toc: 'Table of Contents'
+  toc: 'Tópicos'
   prev_post: 'Anterior'
   next_post: 'Próximo'
   updated: 'Última atualização a %s'
