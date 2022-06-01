@@ -1,32 +1,32 @@
-name: 'Portuguese'
+name: 'English'
 
 home:
-  menu: 'Inicio'
-  title: 'Inicio'
+  menu: 'Home'
+  title: 'Home'
 
 archive:
-  menu: 'Arquivo'
-  title: 'Arquivo'
-  subtitle: 'Arquivo'
-  post_total: '%d posts no total'
+  menu: 'Archives'
+  title: 'Archives'
+  subtitle: 'Archives'
+  post_total: '%d posts in total'
 
 category:
-  menu: 'Categorias'
-  title: 'Categorias'
-  subtitle: 'Categorias'
-  post_total: '%d posts no total'
-  more: 'Continuar...'
+  menu: 'Categories'
+  title: 'Categories'
+  subtitle: 'Categories'
+  post_total: '%d posts in total'
+  more: 'More...'
 
 tag:
   menu: 'Tags'
   title: 'Tags'
   subtitle: 'Tags'
-  post_total: '%d posts no total'
+  post_total: '%d posts in total'
 
 about:
-  menu: 'Sobre'
-  title: 'Sobre'
-  subtitle: 'Sobre'
+  menu: 'About'
+  title: 'About'
+  subtitle: 'About'
 
 links:
   menu: 'Links'
@@ -34,23 +34,23 @@ links:
   subtitle: 'Links'
 
 page404:
-  menu: 'Página não encontrada'
-  title: 'Página não encontrada'
-  subtitle: 'Página não encontrada'
+  menu: 'Page not found'
+  title: 'Page not found'
+  subtitle: 'Page not found'
 
 post:
-  toc: 'Sumário'
-  prev_post: 'Anterior'
-  next_post: 'Próximo'
-  updated: 'Última atualização: %s'
+  toc: 'Table of Contents'
+  prev_post: 'Previous'
+  next_post: 'Next'
+  updated: 'Last updated on %s'
   meta:
     wordcount: '%s words'
     min2read: '%s mins'
     views: '{} views'
   copyright:
-    author: 'Autor'
-    posted: 'Postado em'
-    updated: 'Atualizado em'
+    author: 'Author'
+    posted: 'Posted on'
+    updated: 'Updated on'
     licensed: 'Licensed under'
     CC: 'CC - Creative Commons license'
     BY: 'BY - Attribution'
@@ -59,11 +59,11 @@ post:
     ND: 'ND - No derivative works'
 
 footer:
-  pv: 'Visualizações: {}'
-  uv: 'Visitantes: {}'
+  pv: 'Views: {}'
+  uv: 'Visitors: {}'
 
 search:
-  title: 'Procurar'
+  title: 'Search'
   keyword: 'Keyword'
 
-noscript_warning: 'Esse blog funciona melhor com o JavaScript habilitado'
+noscript_warning: 'Blog works best with JavaScript enabled'
