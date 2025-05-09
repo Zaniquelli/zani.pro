@@ -38,7 +38,7 @@
 </script>
 
 <svelte:head>
-  <title>Zaniquelli - DOS Portfolio</title>
+  <title>Zaniquelli - Contact page</title>
   <meta name="description" content="Zaniquelli's retro DOS-style portfolio">
   <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
