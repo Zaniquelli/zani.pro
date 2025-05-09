@@ -1,6 +1,5 @@
 <script>
-    import "../app.css";
-  </script>
-  
-  <slot />
-  
+  import "$lib/styles/dos-theme.css";
+</script>
+
+<slot />
