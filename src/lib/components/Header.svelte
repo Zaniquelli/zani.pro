@@ -1,5 +1,5 @@
 <script>
-  export let currentTime: string;
+  export let currentTime;
 </script>
 
 <div class="header">
